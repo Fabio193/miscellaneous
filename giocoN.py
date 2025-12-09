@@ -1,3 +1,6 @@
+### Semplice programma che analizza i numeri naturali 
+
+
 import os 
 import sys 
 import time 
@@ -127,4 +130,5 @@ except KeyboardInterrupt:
         print("[*] Aborto")
 except SystemError as e:
     print("[*] Erorre!")
+
 
